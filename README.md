@@ -34,6 +34,4 @@ Requiere [ts-node](https://typestrong.org/ts-node/) o [Bun](https://bun.sh/):
 # Con ts-node
 npx ts-node 01-two-sum.ts
 
-# Con Bun (más rápido)
-bun run 01-two-sum.ts
 ```
