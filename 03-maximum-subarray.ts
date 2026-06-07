@@ -1,8 +1,8 @@
 /**
- * 📌 LeetCode #53 - Subarreglo de Suma Máxima
- * 🔗 https://leetcode.com/problems/maximum-subarray/
- * 🏷️  Dificultad: Medio
- * 📂 Tema: Arreglos, Programación Dinámica
+ *  LeetCode #53 - Subarreglo de Suma Máxima
+ *  https://leetcode.com/problems/maximum-subarray/
+ *   Dificultad: Medio
+ *  Tema: Arreglos, Programación Dinámica
  *
  * Dado un arreglo de enteros `nums`, encuentra el subarreglo
  * con la mayor suma posible y retorna dicha suma.
